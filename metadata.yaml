@@ -1,0 +1,39 @@
+_repo: The-slave-trade-b-Slavery-and-color_72513
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jervey, Theodore D. (Theodore Dehon)
+    aliases:
+    - Jervey, Theo. D. (Theodore Dehon)
+    - Jervey, Theodore Dehon
+    birthdate: 1859
+    deathdate: 1947
+    gutenberg_agent_id: '56710'
+    url: http://www.gutenberg.org/2009/agents/56710
+description: ''
+gutenberg_issued: '2023-12-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72513'
+  lccn: '26001144'
+language: en
+pgterms:marc904: https://archive.org/details/slavetradeslaver00jerv/page/n5/mode/2up
+pgterms:marc905: 20211108195130jervey
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aColumbia :$bThe State Company, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans'
+- !lcsh 'Slavery -- United States'
+- !lcsh 'United States -- Race relations'
+- !lcsh 'Slave trade -- United States'
+- !lcc 'E151'
+- GITenberg
+title: 'The slave trade : $b Slavery and color'
+url: http://www.gutenberg.org/ebooks/72513
